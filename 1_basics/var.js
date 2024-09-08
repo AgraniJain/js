@@ -6,4 +6,5 @@ accountCity="Bhopal"
 accountEmail="change.com"
 accountPassword="123123"
 accountCity="BJ"
-console.log(accountId)
+// console.log(accountId)
+console.log(accountEmail)
